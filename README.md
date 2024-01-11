@@ -1,3 +1,5 @@
+https://clarus-store-emre.netlify.app/
+
 Yüklü Paketler
 - tailwindcss
 - axios
